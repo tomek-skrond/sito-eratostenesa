@@ -11,4 +11,4 @@ Klasa powinna posiadać następujące metody:
 
 -metodę Wyswietl() wyświetlającą wszystkie liczby pierwsze z zakresu 1 do n
 
--metodę Sprawdz() - sprawdzającą czy liczba x jest liczbą pierwszą
+-metodę Sprawdz(x) - sprawdzającą czy liczba x jest liczbą pierwszą
